@@ -1,0 +1,14 @@
+name: dart_oop_demo
+description: Demo OOP nâng cao + Design Patterns + Centralized Error Handling
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
